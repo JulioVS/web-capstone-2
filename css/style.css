@@ -1,0 +1,40 @@
+.container {
+  font-family: Jura, sans-serif;
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.intro {
+  background-image: url("../images/live.jpeg");
+}
+
+.subtitle {
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+.profile-pic {
+  width: 200px;
+  border-radius: 50%;
+}
+
+p {
+  text-align: center;
+}
+
+.skills {
+  background-image: none;
+  background-color: midnightblue;
+}
+
+.contact {
+  background-color: darkgrey;
+}
+
+.footer {
+  background-color: black;
+  padding: 2rem;
+}
